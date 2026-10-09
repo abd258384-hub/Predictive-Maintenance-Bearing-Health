@@ -1,8 +1,7 @@
-﻿numpy
+numpy
 pandas
 matplotlib
-seaborn
 scipy
+seaborn
 scikit-learn
-jupyter
-ipykernel
+tensorflow
